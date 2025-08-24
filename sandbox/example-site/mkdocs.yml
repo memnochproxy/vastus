@@ -1,0 +1,8 @@
+site_name: Vastus Template
+site_description: Experiments for Vastus site theme
+site_author: Jed Reynolds et al
+copyright: (C) 2025 Jed Reynolds, et. al.
+extra_css:
+    - css/vastus-nav.css
+    - css/vastus-body.css
+
