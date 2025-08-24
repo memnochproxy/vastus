@@ -10,17 +10,33 @@
     font-weight: normal;
     font-style: normal;
 }
+body {
+    background: #fff0d0 !important;
+}
+body.homepage:before {
+    background: none !important;
+}
 body.homepage div.fixed-top.navbar-expand-lg.navbar-dark.bg-primary {
-    background: #ffeeaa !important;
+    background: #f0e0a0 !important;
+    padding: 0 !important;
+    overflow: show;
 }
 body.homepage > div.container  {
+    height: 35px !important;
+    margin-top: 0;
+    margin-bottom: 0;
     padding: 0;
+    overflow: show;
 }
 body.homepage div div.container a,
 body.homepage div div.container a.navbar-brand {
     color: black !important;
     font-family: "PaladinFLF_Regular", "Times New Roman", Times, serif !important;
-    font-size: 20px;
+    font-size: 45px;
+
+    margin-top: -10px;
+    margin-bottom: -15px;
+    text-align: bottom;
     padding: 0;
 }
 li.nav-item a.nav-link {
