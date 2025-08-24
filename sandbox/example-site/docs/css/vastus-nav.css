@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "PaladinFLF_Regular";
+    src: url("PaladinFLF_Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Scurlock_Regular";
+    src: url("Scurlock_Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+body.homepage div.fixed-top.navbar-expand-lg.navbar-dark.bg-primary {
+    background: #ffeeaa !important;
+}
+body.homepage > div.container  {
+    padding: 0;
+}
+body.homepage div div.container a,
+body.homepage div div.container a.navbar-brand {
+    color: black !important;
+    font-family: "PaladinFLF_Regular", "Times New Roman", Times, serif !important;
+    font-size: 20px;
+    padding: 0;
+}
+li.nav-item a.nav-link {
+    font-family: "Times New Roman", Times, serif !important;
+    color: black !important;
+    text-decoration: underline;
+}
+div.container h1 {
+    font-family:  "Scurlock_Regular", "Times New Roman", Times, serif !important;
+    color: #9f2020  !important;
+}
+div.container h2 {
+    font-family:  "Times New Roman", Times, serif !important;
+    color: #9f2020  !important;
+}
+div.container h3 {
+    font-family:  "Scurlock_", "Times New Roman", Times, serif !important;
+    color: #9f2020  !important;
+}
+div.container p {
+    font-family: "DejaVu Sans","Liberations Sans", Arial, sans-serif !important;
+    font-size: 14px;
+}
