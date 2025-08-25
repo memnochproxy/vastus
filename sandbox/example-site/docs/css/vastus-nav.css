@@ -22,7 +22,6 @@ body.homepage div.fixed-top.navbar-expand-lg.navbar-dark.bg-primary {
     overflow: show;
 }
 body.homepage > div.container  {
-    height: 35px !important;
     margin-top: 0;
     margin-bottom: 0;
     padding: 0;
@@ -44,19 +43,15 @@ li.nav-item a.nav-link {
     color: black !important;
     text-decoration: underline;
 }
-div.container h1 {
-    font-family:  "Scurlock_Regular", "Times New Roman", Times, serif !important;
-    color: #9f2020  !important;
+div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.hidden-print.affix div#toc-collapse.navbar-collapse.collapse.card.bg-light {
+    background: #d0e0ff !important;
 }
-div.container h2 {
-    font-family:  "Times New Roman", Times, serif !important;
-    color: #9f2020  !important;
+div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.hidden-print.affix div#toc-collapse.navbar-collapse.collapse.card.bg-light ul.nav {
+    padding: 1px;
 }
-div.container h3 {
-    font-family:  "Scurlock_", "Times New Roman", Times, serif !important;
-    color: #9f2020  !important;
+div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.hidden-print.affix div#toc-collapse.navbar-collapse.collapse.card.bg-light ul.nav a.nav-link {
+    padding: 0.25em;
 }
-div.container p {
-    font-family: "DejaVu Sans","Liberations Sans", Arial, sans-serif !important;
-    font-size: 14px;
+div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.hidden-print.affix div#toc-collapse.navbar-collapse.collapse.card.bg-light ul.nav a.nav-link:hover {
+    background: white;
 }
