@@ -1,0 +1,8 @@
+site_name: Vastus Timeline
+site_description: Summary of the Vastus Timeline
+site_author: Liam Reynolds, Jed Reynolds, et. al.
+copyright: (C) 2025 Liam Reynolds, Jed Reynolds
+extra_css:
+  - css/vastus-nav.css
+  - css/vastus-body.css
+
