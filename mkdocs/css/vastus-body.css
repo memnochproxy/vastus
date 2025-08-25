@@ -1,0 +1,54 @@
+body.homepage div.container {
+    height: inherit;
+    margin-top: 0.75em;
+}
+body.homepage div.container p {
+    font-size: 16px;
+    font-family: "DejaVu Sans", "Noto Sans", "Lucida Sans", "Liberation Sans", Arial, sans;
+}
+
+div.container h1 {
+    font-family:  "Scurlock_Regular", "Times New Roman", Times, serif !important;
+    color: #9f2020  !important;
+    margin-top: 0.5em;
+}
+div.container h2 {
+    font-family:  "Times New Roman", Times, serif !important;
+    color: #9f2020  !important;
+    margin-top: 0.35em;
+}
+div.container h3 {
+    font-family:  "Scurlock_", "Times New Roman", Times, serif !important;
+    color: #9f2020  !important;
+    margin-top: 0.25em;
+}
+div.container p {
+    font-family: "DejaVu Sans","Liberations Sans", Arial, sans-serif !important;
+    font-size: 14px;
+}
+
+div.container table,
+div.container table thead tr th,
+div.container table tbody tr td {
+    border: 1px solid brown;
+}
+
+div.container table thead tr th {
+    padding: 0.25em 0.75em;
+    color: brown;
+}
+
+div.container table tbody tr td {
+    padding: 0.25em 0.75em;
+}
+
+div.container blockquote,
+div.container blockquote p {
+    background: #fffcfc;
+    margin: 1px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 16px !important;
+    font-style: italic;
+    font-family: "DejaVu Serif", "Noto Serif", "Lucida Bright", "Liberation Serif", "Times New Roman", Times, serif !important;
+}
