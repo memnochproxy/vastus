@@ -23,3 +23,10 @@ Store common site metadata and configuration files here.
         1. `git push`
     1. If not, please create a pull request
 
+## Notes on _Material for MkDocs_
+
+The addon emoji package for _Material for MkDocs_ package seems wonderful, but it absolutely
+requires most users to **create a virtual environment** for running their `mkdocs serve` and
+`mkdocs build` commands. Right now, that seems like too much effort to get started.
+
+----
