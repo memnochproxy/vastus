@@ -1,5 +1,12 @@
-# Example Site
+# Style Sheet Preferences
 
+## Headings
+> # H1
+> ## H2
+> ### H3
+> #### H4
+
+## Body and paragraph text
 Hello world! Let's get a basic css theme worked out.
 
 ## Table

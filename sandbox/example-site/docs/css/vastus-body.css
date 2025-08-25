@@ -2,18 +2,25 @@ body.homepage div.container {
     height: inherit;
     margin-top: 0.75em;
 }
+body.homepage div.container p {
+    font-size: 16px;
+    font-family: "DejaVu Sans", "Noto Sans", "Lucida Sans", "Liberation Sans", Arial, sans;
+}
 
 div.container h1 {
     font-family:  "Scurlock_Regular", "Times New Roman", Times, serif !important;
     color: #9f2020  !important;
+    margin-top: 0.5em;
 }
 div.container h2 {
     font-family:  "Times New Roman", Times, serif !important;
     color: #9f2020  !important;
+    margin-top: 0.35em;
 }
 div.container h3 {
     font-family:  "Scurlock_", "Times New Roman", Times, serif !important;
     color: #9f2020  !important;
+    margin-top: 0.25em;
 }
 div.container p {
     font-family: "DejaVu Sans","Liberations Sans", Arial, sans-serif !important;
@@ -43,5 +50,5 @@ div.container blockquote p {
     padding-bottom: 4px;
     font-size: 16px !important;
     font-style: italic;
-    font-family:  "Noto Serif", "Lucida Bright", "Liberation Serif", "Times New Roman", Times, serif !important;
+    font-family: "DejaVu Serif", "Noto Serif", "Lucida Bright", "Liberation Serif", "Times New Roman", Times, serif !important;
 }

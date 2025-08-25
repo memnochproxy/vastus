@@ -30,7 +30,7 @@ body.homepage > div.container  {
 body.homepage div div.container a,
 body.homepage div div.container a.navbar-brand {
     color: black !important;
-    font-family: "PaladinFLF_Regular", "Times New Roman", Times, serif !important;
+    font-family: "Scurlock_Regular", "Times New Roman", Times, serif !important;
     font-size: 45px;
 
     margin-top: -10px;
@@ -48,6 +48,7 @@ div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.
 }
 div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.hidden-print.affix div#toc-collapse.navbar-collapse.collapse.card.bg-light ul.nav {
     padding: 1px;
+    line-height: 1.2;
 }
 div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.hidden-print.affix div#toc-collapse.navbar-collapse.collapse.card.bg-light ul.nav a.nav-link {
     padding: 0.25em;
