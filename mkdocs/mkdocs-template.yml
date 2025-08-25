@@ -1,0 +1,8 @@
+site_name: Vastus Subject Here
+site_description: Something to do with Vastus
+site_author: Jed Reynolds, et. al. 
+copyright: (C) 2025 Jed Reynolds and respective authors
+extra_css:
+    - css/vastus-nav.css
+    - css/vastus-body.css
+
