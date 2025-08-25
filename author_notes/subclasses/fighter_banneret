@@ -1,0 +1,36 @@
+Banneret
+Cool Tagline
+Cool description
+
+Level 3: Rallying Cry
+When you use your Second Wind feature to recover hit points, a number of allies within the 30 feet of you regain half as many hitpoints. The number of allies this feature can affect is equal to your proficiency bonus.
+
+Level 3: Bark Orders
+When you take the attack action on your turn, you may replace one of your weapon attacks with one of the following Orders. For an ally to be affected by your orders it must be able to understand you.
+
+“Dig In!” Until the start of your next turn, you and allies within 15 feet of you have advantage on Strength and Dexterity checks and saving throws made to resist grapples or effects that would force them to move.
+
+“Advance!” A number of allies equal to your proficiency bonus may each move up to 15 feet as a reaction. This movement does not provoke attacks of opportunity.
+
+“Cut Them Down!” Choose a number of creatures you can see equal to half your proficiency bonus (round down). Until the start of your next turn, attacks made by allies within 30 feet of you have advantage on attacks against those creatures.
+
+Level 7: Surge of Inspiration
+When you use your Action Surge feature, a number of creatures equal to your proficiency bonus that can see or hear you within 30 feet of yourself may use their reaction to immediately make a single weapon attack or cast a single cantrip with a casting time of 1 action. After using this feature, you gain a level of exhaustion.
+
+Level 10: Improved Orders
+Your mastery of strategy allows you to better direct your allies through a battle. Your Orders gain the following benefits:
+
+“Dig In!” Creatures affected by this order gain a bonus to their Armor Class equal to your proficiency bonus.
+
+“Advance!” The range which affected creatures may move as part of this order increases to 30 feet. When you issue this order, you may also use your reaction to move up to 15 feet without provoking attacks of opportunity.
+
+“Cut Them Down!” Attacks made against creatures targeted by this order do 1d6 points of additional damage of their type, and those creatures have disadvantage on concentration checks.
+
+Level 15: Deafening Clarion
+If an enemy targeted by your “Cut Them Down” Order is dealt damage by three or more attacks made by different creatures before the start of your next turn, that enemy must succeed on a Constitution saving throw (DC 13 + the number of different creatures that dealt damage to this creature this round) or be stunned until the end of your next turn. Once a creature has been stunned by the effect, it cannot be stunned by this feature again for 1 minute.
+
+Level 18: Lord of War
+You gain the following benefits:
+You are immune to the surprised condition.
+Whenever you roll initiative, you may immediately use one of your Orders without taking the attack action.
+As long as you are not incapacitated, other allies within 15 feet of you gain the benefits of partial cover (+2 to their armor class and Dexterity saving throws).
