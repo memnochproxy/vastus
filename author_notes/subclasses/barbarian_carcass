@@ -1,0 +1,44 @@
+Path of the Carcass
+Cool tagline goes here!
+
+Cool flavor description goes here!
+
+Level 3: No Rest for the Weary
+The level of exhaustion at which you immediately die increases by a number equal to twice your Rage Damage bonus (thus a 3rd Level Carcass will die at 10 exhaustion, a 9th at 12, and a 16th at 14).
+
+While you are raging, you receive the following benefits and penalties based on your current exhaustion level:
+
+Exhaustion 0: Opening Strike
+While you are raging and not exhausted the first time each turn that you hit an enemy with a melee attack, that attack deals double damage.
+
+Exhaustion 1+: Feel No Pain
+While you are exhausted, any time you would take damage of a type other than psychic, reduce that damage by an amount equal to your proficiency bonus plus your exhaustion level. This reduction applies before any resistances or vulnerabilities.
+
+Exhaustion 3+: Corpse Dance
+While you have 4 or more levels of exhaustion, your erratic dancing across the battlefield makes it harder for enemies to move past you. If an enemy would attack an ally within 15 feet of you, they must make a Dexterity saving throw (DC = 8 + your exhaustion level + your proficiency bonus). On a failure, that attack targets you instead.
+
+Exhaustion 6+: Irrepressible
+While you have 6 or more levels of exhaustion, you gain the effects of the Freedom of Movement spell. This is a nonmagical effect, and does not prevent the movement speed penalties from exhaustion.
+
+Exhaustion 9+: Know No Fear
+While you have 9 or more levels of exhaustion, you are immune to the Frightened condition. Whenever an ally within 15 feet of you makes a saving throw, you may use your reaction to inspire them, granting them advantage on that saving throw.
+
+Exhaustion 13: Final Fortune
+While you have exactly 13 levels of exhaustion you ignore all d20 and movement speed penalties from your exhaustion level. If you would fail a saving throw, you may use your reaction to succeed instead. Melee attacks you make deal an extra 13 points of bludgeoning damage.
+
+Exhaustion 14+: Death
+No matter what, reaching 14 levels of exhaustion will always kill you. No effect, magical or otherwise, may prevent this death.
+
+Level 3: Candle in the Wind
+The Carcass’s dance with death exhausts their body and spirit. At the end of each of your turns while you are raging, you gain one level of exhaustion. Your exhaustion level can never decrease your movement speed below 5 feet.
+
+However, being accustomed to pushing your body to the absolute limit, the time it takes you to recover from exhaustion is decreased. Whenever you complete a long rest, you may expend any number of hit dice to decrease your exhaustion level by 1 for each die expended.
+
+Level 6: Maximum Effort
+You are able to push through your exhaustion to fight unhindered as a last resort. At the start of your turn, you may choose to gain one level of exhaustion. If you do, you may ignore the d20 roll and movement speed penalties of exhaustion until the end of your turn.
+
+Additionally, you may use this feature as a reaction to being forced to make a saving throw. If you do, you no longer suffer the d20 penalties from your exhaustion level until the start of your next turn.
+
+Level 14: Never Back Down
+Whenever you enter a rage, you may decrease your exhaustion level by a number equal to your Rage Damage bonus. In addition, your d20 penalties from exhaustion never apply to Constitution saving throws made for your Relentless Rage feature.
+
