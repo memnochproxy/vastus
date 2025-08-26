@@ -33,7 +33,7 @@ These are the general time periods:
     * the Yuan'Ti empire
     * the Yuan'Ti downfall
 
-## Accessory Topics
+## Additional Topics
 
 Semi-book like scopes, like appendix chapters, glossaries, and world
 tables should start off in the _author_notes_ directory. This is so that
@@ -47,3 +47,14 @@ we can revise drafts on that content before we approve it for _book_scope_.
     * Naga
     * necromancers
 
+## Vastus Rulebooks
+
+These are the collections of rules related to the Vastus setting which are not confined
+to a specific story or campaign. This could include additional character options like backgrounds,
+subspecies, classes and subclasses, and/or spells, as well as rules for monsters and magic items.
+
+These books should ALWAYS be clearly labeled with their compatible Dungeons & Dragons Edition and
+associated license information. No book should ever include rules for multiple game editions.
+
+Supplemental rules which are heavily connected to setting lore like species or some (sub)classes
+may appear in both a rulebook and a lore book, so long as the rules remain consistent across both entries.
