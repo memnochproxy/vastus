@@ -1,0 +1,58 @@
+@font-face {
+    font-family: "PaladinFLF_Regular";
+    src: url("PaladinFLF_Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Scurlock_Regular";
+    src: url("Scurlock_Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    background: #fff0d0 !important;
+}
+body.homepage:before {
+    background: none !important;
+}
+body.homepage div.fixed-top.navbar-expand-lg.navbar-dark.bg-primary {
+    background: #f0e0a0 !important;
+    padding: 0 !important;
+    overflow: show;
+}
+body.homepage > div.container  {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    overflow: show;
+}
+body.homepage div div.container a,
+body.homepage div div.container a.navbar-brand {
+    color: black !important;
+    font-family: "Scurlock_Regular", "Times New Roman", Times, serif !important;
+    font-size: 45px;
+
+    margin-top: -10px;
+    margin-bottom: -15px;
+    text-align: bottom;
+    padding: 0;
+}
+li.nav-item a.nav-link {
+    font-family: "Times New Roman", Times, serif !important;
+    color: black !important;
+    text-decoration: underline;
+}
+div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.hidden-print.affix div#toc-collapse.navbar-collapse.collapse.card.bg-light {
+    background: #d0e0ff !important;
+}
+div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.hidden-print.affix div#toc-collapse.navbar-collapse.collapse.card.bg-light ul.nav {
+    padding: 1px;
+    line-height: 1.2;
+}
+div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.hidden-print.affix div#toc-collapse.navbar-collapse.collapse.card.bg-light ul.nav a.nav-link {
+    padding: 0.25em;
+}
+div.container div.row div.col-md-3 div.navbar-light.navbar-expand-md.bs-sidebar.hidden-print.affix div#toc-collapse.navbar-collapse.collapse.card.bg-light ul.nav a.nav-link:hover {
+    background: white;
+}
