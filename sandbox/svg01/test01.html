@@ -12,11 +12,141 @@
         <div style='border: 1px solid blue;width:5in;margin:1em;'>
             stuff and stuff
         </div>
+
         <h1>Notes on hextile maps</h1>
         <p>Apparently the pointy-top or flat-top orientation of hexes has various differences by heritage:
         <li>Pointy top -- used primarly in table top
         <li>Flat top -- used primarly in Battle-tech
         Some online map engines make this a configurable option. I can see how that wouldn't really change the
         overall aspect ratio of a map, both adjacent rows should still be offset by a pretty similar amount.
+
+        <h1>Useful Tiles in General</h1>
+        <h2>Landscapes of 1+ mile(s) range</h2>
+        <ol>
+            <li>B Boulders
+            <li>C Cliffs/Butes
+            <li>D Desert
+            <li>F Forest
+            <li>G Glacier
+            <li>g Graded/Cleared
+            <li>H Harbor
+            <li>g Hills
+            <li>I Ice berg
+            <li>i Ice sheet
+            <li>M Mountains
+            <li>O Ocean
+            <li>P Plains
+            <li>R Riparian
+            <li>r River
+            <li>S Shore
+            <li>s Swamp/Wetland
+            <li>T Tundra
+        </ol>
+        <h2>Town/City scale tiles</h2>
+        <p>These might better be squares, but they don't have to be.
+        <ol>
+            <li>A rocks/boulders
+            <li>B logs/fallen trees
+            <li>C marsh
+            <li>D thicket
+            <li>E paved road
+            <li>F paved road intersection
+            <li>G wagon trail
+            <li>H wagon trail intersection
+            <li>I horse path
+            <li>J horse path fork
+            <li>K wildlife trail
+            <li>L wildlife trail fork
+            <li>M sidewalk/boardwalk street
+            <li>N sidewalk intersection
+            <li>O open space
+            <li>P house
+            <li>Q hut
+            <li>R overhang
+            <li>S cave entrance
+            <li>T tunnel
+            <li>U tunnel intersection
+            <li>V marina
+            <li>W multi-tenant building
+        </ol>
+        <p>Interesting to consider that the scale make travel direction on a tile are never going to accurately portray paths.
+        Consider tracing a path around a monument or a path leading to a pit.
+        <h2>Coordinates and Directions</h2>
+        <p>With all the possible orientations we might want to place tiles, I don't think we're going to cover all the directions. If we use clock directions (12) we lack a 45-deg orientation. Do we get that with 16 directions? If so, we can use hex. Should the encoding be <b>L</b>and.<b>D</b>egree? Where degrees are a choice of 16 positions (0-f: 0, 30, 45, 60, 90, 120, 135, 150, 180...) So a straight road headed east would look like:
+<pre>
+    O.0 O.0 O.0
+    E.0 E.0 E.0
+    O.0 O.0 O.0
+</pre>
+Removing the punctuation might be desirable:
+<pre>
+    O0 O0 O0
+    E0 E0 E0
+    O0 O0 O0
+</pre>
+Assuming some defaults will also be useful:
+<pre>
+    O O O
+    E E E
+    O O O
+</pre>
+
+<h2>Layers</h2>
+<p>It make a lot of sense to have a layer system.
+
+<h2>Document header</h2>
+<p>The document header shall define limits and defaults:
+<ul>
+<li>X width, Y width
+<li>Square/Tile span (1 yard, 1 mile, 5 miles, 10, 60 miles)
+<li>Default tile (useful when in an ocean setting)
+<pre>
+{ "version":1,
+    "x-width":              50,
+    "y-width":              50,
+    "region-legend-url":    "plains.json",
+    "note-1":
+        "Region refers to the greater area (ocean, plains, forest, etc)",
+    "region-default":       "P",
+
+    "area-legend-url":      "village.json",
+    "area-default":         "R",
+    "note-2":
+        "Area refers to the town, hamlet, intersection appropriate for the theme",
+    "note-3": [
+        "The difference between area default and the region default is ",
+        "going to be how unmarked tiles default (to region) and how open-space ",
+        "tiles are defaulted (marked 'O')"
+    ],
+    "note-4": [
+        "We probably want zero to be the lowest (ground level), ",
+        "tunnel levels to be negative, ",
+        "uphill levels to be positive. ",
+        "trail, road, feature, buildings would be above the ground pattern below ",
+        "but this needs to be hand edited--we should number the levels in BASIC ",
+        "fasion: "
+    ],
+    "layers": {
+        20: "surface feature",
+        10: "surface path",
+         0: "surface terrain",
+       -10: "tunnel feature",
+       -20: "tunnel path",
+       -30: "tunnel terrain"
+    ],
+    "Layers": {
+         20: {},
+         10: {},
+          0: {},
+        -10: {},
+        -20: {},
+        -30: {}
+    }
+
+</pre>
+:
+
+
+A road headed north would look like
     </body>
 </html>
