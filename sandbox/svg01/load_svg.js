@@ -3,7 +3,11 @@ const canvas = document.getElementById('svgCanvas');
 const ctx = canvas.getContext('2d');
 
 // Define the path to your SVG file
-const svgUrl = 'drawing.svg'; // Replace with the actual file path
+const svg_legend = {
+	'0': '-',
+	'm': 'hex-mtn-1.svg',
+	'z': 'last.svg'
+}; // Replace with the actual file path
 
 // Create a new Image object
 const img = new Image();
@@ -26,5 +30,5 @@ img.onerror = function() {
 
 // Set the source of the Image object to the SVG file URL
 // This starts the loading process
-img.src = svgUrl;
+img.src = svg_legend['m'];
 
