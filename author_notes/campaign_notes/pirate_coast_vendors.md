@@ -4,14 +4,14 @@ The pirate coast is well known for the variety of scum, villainy and unregulated
 
 ## Dandelion Spit
 
-Dandelion Spit is the northern most coastal port on the pirate coast. It is not very well protected from tides and storms. Shipwrecks litter the area. Enterprising mariners keep showing up not only to try and dive for treasure but hawk their illicit wares at the first stop south of the city. This spit is two miles long and has many docks connected by a splintery board-walk. You will see carts hawking alchemical supplies, ramshackle magical bookshops, cattle rustlers, and whore houses. There is no public slave trade here, the Sing'jar marines regularly patrol the boardwalk, and the city police have undercover stings somewhat regularly. 
+Dandelion Spit is the northern most coastal port on the pirate coast. It is not very well protected from tides and storms. Shipwrecks litter the area. Enterprising mariners keep showing up not only to try and dive for treasure but hawk their illicit wares at the first stop south of the city. This spit is two miles long and has many docks connected by a splintery board-walk. You will see carts hawking alchemical supplies, ramshackle magical bookshops, cattle rustlers, and whore houses. There is no public slave trade here, the Sing'jar marines regularly patrol the boardwalk, and the city police have undercover stings somewhat regularly.
 
 ### **Salt Spice**
 
 * **John Beefo**, half-orc, CN, that sells:
   * sea salt cellars by the sea shore
   * salted meats, buscuits, and other long-traveling comestibles
-  * lemons, limes, and krauts 
+  * lemons, limes, and krauts
 
 ### **Rope Burn**
 
@@ -27,7 +27,7 @@ Dandelion Spit is the northern most coastal port on the pirate coast. It is not 
 ### **Wool and Coal**
 
 * Tiefling owner, **Sneer Scratch**, LN bard
-  * General and second-hand goods merchant. 
+  * General and second-hand goods merchant.
   * Sells some of everything.
   * loves to resell used goods of questionable quality
   * *all sales final, no refunds*
@@ -40,7 +40,7 @@ Dandelion Spit is the northern most coastal port on the pirate coast. It is not 
   * glasses, spy glasses, telescopes
   * nautical maps
   * weather sensing items
-* Premiums on 
+* Premiums on
   * intelligent magical nautical items
   * wind and weather wands
   * water elemental summoning bracelets
@@ -49,7 +49,7 @@ Dandelion Spit is the northern most coastal port on the pirate coast. It is not 
 * **Owlshore Boathouse and Drydock**
   * owned by goliath carpenter, **Whet Mosstone**, LN
   * journeymen range from Orcs, Horcs, Hobs. between 12-24 depending on time of year
-  * will offer either 
+  * will offer either
     * cheap...*cheap...fixes.*
     * Expensive, quality jobs worth a *sticky* tricky deal
   * oh, you might see a thieves guild here once a full moon
@@ -65,7 +65,7 @@ Dandelion Spit is the northern most coastal port on the pirate coast. It is not 
 * It is a collective, no single leader, but there is a council of three
   * typically CN druids or clerics
   * elections every other harvest moon
-    * *Sashelas Mereth Ithil*  
+    * *Sashelas Mereth Ithil*
     * only characters showing the ability to cast greater restoration are electable
     * elections are a very mellow party, but would put a halfling to sleep right away
   * not uncommon for sorcerers to try and pass themselves off as clerics...doesn't always pan out
@@ -88,6 +88,12 @@ Dandelion Spit is the northern most coastal port on the pirate coast. It is not 
 
 Snail Bay has a convoluted delta area situated between tidal levels such that half the time no ship can enter or leave. This port allows more scum and villainy because the Sing'jar navy has a difficult time patrolling the area. Over the years, mayors of Sing'jar state they will *clean up that bay with the marines*, but somehow there has always been a sudden scandal that runs that off course...
 
+### **Davek's Goods**
+
+* General Store, owned by Davek.
+* Recently a magical brawl broke out here, leading to the death of the goliath bodyguard Aslak
+* on the south side of the inner channel
+
 ### **The Round Chisel**
 
 * Owned by the dwarf **Guile Adapose**
@@ -107,7 +113,7 @@ Snail Bay has a convoluted delta area situated between tidal levels such that ha
 ### **Bentcase Fixed**
 
 * Blacksmith forge that allegedly makes magic armor (+1, +2) and magic melee weapons (+1)
-  * Generally four blacksmiths, all orcs. 
+  * Generally four blacksmiths, all orcs.
 * The owner is a hobgoblin, **Rose Calcite**, artificer, resents gnomes, NG
   * Rose is alway eager to beat a competitor's deal
   * in good standing with local clerics...at the local pubs
@@ -125,4 +131,4 @@ Snail Bay has a convoluted delta area situated between tidal levels such that ha
   * enchanted single-masted ships
   * puzzle boats for discreet couriers
 
-## 
+##
